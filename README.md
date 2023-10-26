@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Kapil Upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kapil Upreti" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100092490999340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kapil upreti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kapil-upreti-5a2676296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kapil Upreti" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100092490999340&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kapil upreti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
