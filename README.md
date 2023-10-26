@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kapil Upreti</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" width="400" src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">
+<img align="right" width="400" src="[https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilupreti10&label=Profile%20views&color=0e75b6&style=flat" alt="kapilupreti10" /> </p>
 
