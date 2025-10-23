@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Upreti</h1>
-<!-- <h3 align="center">A passionate FullStack developer</h3> -->
+<h3 align="center">A passionate FullStack developer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilupreti10&label=Profile%20views&color=0e75b6&style=flat" alt="kapilupreti10" /> </p>
